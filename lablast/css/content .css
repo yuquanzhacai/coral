@@ -1,0 +1,36 @@
+.nav_content ul li{
+	list-style-type: none;
+	text-decoration: none;
+	float: left;
+	margin-right: 100px;
+	
+}
+.content{
+	display: inline;
+	float: left;
+}
+.content_left{
+	width: 60%;
+	height: 600px;
+	float: left;
+	padding-top: 20px;
+	margin-right: 20px;
+}
+.content_right{
+	float: left;
+}
+.font_next{
+	color: #22a3d3;
+
+}
+.text-p{
+	text-indent: 2em; 
+}
+h2{
+	font-size: 10px;
+
+}
+.div3{
+	float: left;
+	margin-right: 50px;
+}

@@ -1,0 +1,38 @@
+*{
+	margin:auto;
+	padding: 0px;
+	text-decoration: none;
+
+ 
+}
+.nav_content ul li{
+	list-style-type: none;
+	text-decoration: none;
+	float: left;
+	margin-right: 100px;
+	
+}
+.daohang{
+	/*background-image: url(images/QQ图片.png);*/
+	background-color: red;
+	background-size: 1082px 35px;
+	text-decoration-style: none;
+	color: #5F9EA0;
+}
+body{
+	font-size: 12px;
+	font-family: 'Arial';
+	line-height: 2em;
+	text-decoration-style: none;
+
+}
+
+.nav_content ul li{
+	list-style-type: none;
+	text-decoration-style: none;
+	float: left;
+	margin-right: 100px;
+}
+.footer{
+	background-image: url(images/QQ图片.png);
+}

@@ -1,0 +1,79 @@
+
+.daohang{
+	/*background-image: url(images/QQ图片.png);*/
+	background-color: red;
+}
+/*.nav_content{
+	background-image: url(images/QQ图片.png);
+}*/
+.nav_content ul li{
+	list-style-type: none;
+	text-decoration: none;
+	float: left;
+	margin-right: 100px;
+	
+}
+.content{
+	float: left;
+	display: inline;
+}
+
+.volleyballruanjian4{
+	float: left;
+}
+.list{
+	float: left;
+	display: inline;
+}
+.list_front{
+	float: left;
+	margin-right: 80px;
+}
+.list_head{
+	float: left;
+}
+form{
+	float: left;
+	background-color: #FFDEAD;
+	margin-top: 50px;
+}
+caption{
+	font-weight: bold;
+	font-size: 20px;
+}
+.bottom_left{
+	float: left;
+}
+.img{
+	float: left;
+	margin-left: 78px;
+	opacity: 1.0;
+}
+.img:hover{
+	opacity: 0.5;
+}
+.img a{
+	text-decoration-style: none;
+}
+.img2{
+	float: left;
+	margin-left: 78px;
+	opacity: 1.0;
+
+}
+.img2:hover{
+	opacity: 0.5;
+}
+.img2 a{
+	text-decoration-style: none;
+}
+/*.text{
+	text-align: center;
+	padding-left: 20px;
+	margin-left: 20px;
+	color: #FF7F50;
+}
+*/
+.footer{
+	background-image: url(images/QQ图片.png);
+}
